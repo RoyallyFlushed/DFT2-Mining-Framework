@@ -1,5 +1,4 @@
-# DFT2---Mining-Framework
-Donut Factory Tycoon 2's Mining System Framework
+# DFT2 Mining Framework
+Donut Factory Tycoon 2's Mining System
 
-
-This was created for a friend of mine to use in his game. I do not take this to be my finest work, however this is just an example of the sort of things I know how to do with lua 5.1. This was created by [RoyallyFlushed](https://www.roblox.com/users/29942409/profile).
+This system was commissioned by Messiway on Roblox for their game, "Donut Factory Tycoon 2" sometime in 2017. The work displayed here is extremely outdated and does not reflect my current programming expertise, it is merely a good showcase of the system's theoretical operation as well as a contrast to recent work; showing improvement.
